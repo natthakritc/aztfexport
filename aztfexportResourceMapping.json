@@ -1,0 +1,7 @@
+{
+	"/subscriptions/fd37b54f-84ba-4c3d-a8aa-65304aee1db4/resourceGroups/rg-hub-prd-sea-01/providers/Microsoft.Network/firewallPolicies/afwp-hub-prd-sea": {
+		"resource_id": "/subscriptions/fd37b54f-84ba-4c3d-a8aa-65304aee1db4/resourceGroups/rg-hub-prd-sea-01/providers/Microsoft.Network/firewallPolicies/afwp-hub-prd-sea",
+		"resource_type": "azurerm_firewall_policy",
+		"resource_name": "res-0"
+	}
+}
